@@ -2,101 +2,101 @@
 
 ## Classes e objetos
 
-[text](link)
+[link]([link](https://www.typescriptlang.org/play/?#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFMBnAFydAGMBngEwCWAcwD2oPkwC2IgHbsATgENQYgK4sxE7gBtFLFp04iARgCsmbEQBpQigI6qBoeUwAOLgzLaLpLWzr0DAiI+PVAAM3lVbz9Ob0ljAEvJUAEZcJF5SR8RPwcjP0tQiKjvUHcmLgEWZQ55UFUUmRFJTkUxA3lGVLlvGSrFPmsVVVADU2UZViCuPTFjRRlFsM5VADcwlgBjsTT2ACP+gTDirl19Tm7I6OU4qX8prmmBUK0tOv93EXcBJlfOZqtAB0+FBjAAIkxwmkBABznbiZRnQJMfDI-QlG5+ADe+FA+O4sgUqi4lnkAApXKpjNoBFxQIDOHgFGkhABKUDYgC++B5oJA8F6iwG8M0YhM5ksaKJbEx3gAjKAALwMpgAdzlenJACIFksltq2dLepqAEzK1Ua64xHXrRSG-nAWCsDjGjTaJhA7QiITk62KeVAxlGrhEkQer0+v2lRSmoMtJhsoA))
 
 ## Atributos e métodos
 
-[text](link)
+[link](link)
 
 
 ## Construtores (constructor)
 
-[text](link)
+[link](link)
 
 
 ## Instanciação de objetos
 
-[text](link)
+[link](link)
 
 
 ## Modificadores de acesso (public, private, protected)
 
-[text](link)
+[link](link)
 
 
 ## Propriedades somente leitura (readonly)
 
-[text](link)
+[link](link)
 
 
 ## Métodos estáticos (static)
 
-[text](link)
+[link](link)
 
 
 ## Propriedades estáticas (static)
 
-[text](link)
+[link](link)
 
 
 ## Encapsulamento
 
-[text](link)
+[link](link)
 
 
 ## Herança
 
-[text](link)
+[link](link)
 
 
 ## Polimorfismo
 
-[text](link)
+[link](link)
 
 
 ## Abstração
 
-[text](link)
+[link](link)
 
 
 ## Getters e setters
 
-[text](link)
+[link](link)
 
 
 ## Classes abstratas (abstract)
 
-[text](link)
+[link](link)
 
 
 ## Métodos abstratos
 
-[text](link)
+[link](link)
 
 
 ## Sobrescrita de métodos (override)
 
-[text](link)
+[link](link)
 
 
 ## Sobrecarga de métodos (method overloading)
 
-[text](link)
+[link](link)
 
 
 ## Parâmetros opcionais em métodos
 
-[text](link)
+[link](link)
 
 
 ## Parâmetros padrão
 
-[text](link)
+[link](link)
 
 
 ## Herança simples
 
-[text](link)
+[link](link)
 
 
 ##Cadeia de herança
