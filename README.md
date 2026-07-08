@@ -11,7 +11,7 @@
 
 ## Construtores (constructor)
 
-[link](link)
+[link](https://www.typescriptlang.org/play/?#code/PQKgUAwg9gdgzgFwK4CcDGCormMBRRAUwAI0BngEwEsBzKYlQuKAGwDcT6AHFKAIxaEAtgENiFEmhRURKYvwBWhTHHH0EVLvQizexBQEPiVGFTQyWVAF4iKUVWihDicQklU8yPKvfG37AHTEAPKksGiEVJjihGBYVIQwCCIA5wDH9GKKyr4SQrCIKP7EAJfyYfAIKEiYKAA0xEjOQiWYdsRMXITmIiwdAB7dNcUiNU4iGmgiQokIJACOSCIw7U3yfErRZVIy7WCOzmJcvSJsRQC0aAAWpyQARDCEAO53QXiCpcQAXxp9WiiLEg0WTLObEQHENq+aEbHKqVwKaakaT+VTCRrOJjJdpsAyWOwNQhsKLLOxgMSPCJwOBUCi2EgSYgTaR8JBUOS+ZlUVkqYiiGBLFgzJIkERcMiqMQmRDLHrpKBBADK6Pojkq1VqDVcKL5IioqgAZgZzH0mICInIJGATGYLNZZEyWDQ1lyefQoEhkTIObDeSYDlxBCoGqNhckVplSDcYBEYh0ULw4G9nE0xCI+Fg6TR0TwoBEKKhenU4qo6XZ4YQUc4eIREtdab5XMcinSwyR0WxZFQDBx9fJPViNYW4A1ajBSZGbT1LDZ5XzEtCUMDTDY6R1dfqwHB3BEEABbjh9KUxgr6hAAK5jMiTYBAwFwuDQLBE1OIOgT9AA3mBiL++VAJBYKAAC4XCqEwaAAbh-P9lhA4gBSEPhK2gv8whQUDCgg6CYN-YBgDfAoqjGORm2PW1entDlJXAt0cDQtVCiQDAsAACnyQD4KwmAaBDGB4MQ5D6nQzDwJ4gBKYhvzQtCECufUAg4wggOIABef9ONQmTfzkhS4LUpl+K07TdKTRw5HU8zjOIABfXA0MsYEUFY8TQLYKBaSk3CZMY1hCACICaFYgADUIABJP1MxSAOUqAbI6RAjEc-wAmC8TrLs7z+DmFAABFlF6K4mBc0TpB4rztN-RhkBQGBiGCiKoqUoD4vOYhGvkpM4Na9rIs6gJzJs4KMrATLGIQUhdCgABGAzHieN8ptYu4ADFKyKaQ7gaAA2AB2Bo7gANUrGYWCuKA7nEx8Cj8gbBFkFz9im6aAtoB6rt8wQAqgIKpg-F7ssrfLkjO4rxPEoA)
 
 
 ## Instanciação de objetos
@@ -99,6 +99,17 @@
 [link](link)
 
 
-##Cadeia de herança
-##Tratamento de exceções (throw, try, catch)
-##Classes e herança de classes de erro
+## Cadeia de herança
+
+[link](link)
+
+
+## Tratamento de exceções (throw, try, catch)
+
+[link](link)
+
+
+## Classes e herança de classes de erro
+
+[link](link)
+
